@@ -3,7 +3,6 @@
 <!-- [![*'s github stats](https://github-readme-stats.vercel.app/api?username=lokyyyi)](https://github.com/lokyyyi) -->
 
 <h2 align="center"> 🛠 My Tech Stack 🛠 </h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp
@@ -17,7 +16,7 @@
   <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" />&nbsp
 </p>
 
-<h2 align="center"> About Me
+<h2 align="center"> About Me </h2>
 
 <div align="center">
   <a href="https://lokyyyi-tech.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="GitHub"></a>
