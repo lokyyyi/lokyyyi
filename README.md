@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text=HyeonLokJoo)
 
-//[![*'s github stats](https://github-readme-stats.vercel.app/api?username=lokyyyi)](https://github.com/lokyyyi)
+<!-- [![*'s github stats](https://github-readme-stats.vercel.app/api?username=lokyyyi)](https://github.com/lokyyyi) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokyyyi)](https://github.com/lokyyyi/github-readme-stats)
 
