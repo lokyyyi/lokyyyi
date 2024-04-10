@@ -19,11 +19,7 @@
 
 <h2 align="center"> About Me
 
-<p align="center">
-  <a href="https://lokyyyi-tech.tistory.com"><img src="https://img.shields.io/badge/Blog-#20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
-</p>
+<div align="center">
+  <a href="https://lokyyyi-tech.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="GitHub"></a>
+</div>
 
-
-:smirk:
-:joy:
-:rage:
