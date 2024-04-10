@@ -2,8 +2,8 @@
 
 <!-- [![*'s github stats](https://github-readme-stats.vercel.app/api?username=lokyyyi)](https://github.com/lokyyyi) -->
 
-<p align='center'>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokyyyi)](https://github.com/lokyyyi/github-readme-stats)
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lokyyyi)](https://github.com/lokyyyi/github-readme-stats)
 </p>
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
