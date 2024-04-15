@@ -41,7 +41,7 @@
 
 >Email : <lokyyyi96@gamil.com>
 >
->Blog : [기술 블로그](lokyyyi96@gamil.com)
+>Blog : [기술 블로그](https://lokyyyi-tech.tistory.com/)
 >
 >Portfolio : [주현록의 포트폴리오]()
 >
