@@ -2,7 +2,15 @@
 
 <!-- [![*'s github stats](https://github-readme-stats.vercel.app/api?username=lokyyyi)](https://github.com/lokyyyi) -->
 
+<h2 align="center"> 📌 ME 📌 </h2>
+<br>
+<h3 align="center">단단하지만 유연한 개발자</h3>
+<br>
+<a>시간이 멈추지 않는 한 완벽한 프로그램은 없다고 생각합니다.</a>
+<a>단 한번의 개발이 끝이 아니라 끊임없는 리팩토링으로,</a>
+개선되는 성과에 성취감을 느끼는 사람입니다.
 <h2 align="center"> 🛠 My Tech Stack 🛠 </h2>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />&nbsp
@@ -16,7 +24,8 @@
   <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" />&nbsp
 </p>
 
-<h2 align="center"> About Me </h2>
+<h2 align="center"> 🧤 About 🧤 </h2>
+<br>
 
 <div align="center">
   <a href="https://lokyyyi-tech.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="GitHub"></a>
