@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=150&color=gradient&text=HyeonLokJoo)
 
 <!-- [![*'s github stats](https://github-readme-stats.vercel.app/api?username=lokyyyi)](https://github.com/lokyyyi) -->
-
-<h2 align="center"> 📌 ME 📌 </h2>
+<div align="center">
+  
+<h2 align="center"> 📌 About ME 📌 </h2>
 <br>
 <h3 align="center">단단하지만 유연한 개발자</h3>
 <br>
@@ -26,11 +27,26 @@
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" />&nbsp
 </p>
+<br>
+<p display="inline">
+    <a href="https://github.com/walwald">
+     <img height="180" src="https://github-readme-stats.vercel.app/api?username=lokyyyi&hide=none&hide_title=false&show_icons=ture&include_all_commits=false&theme=omni" />
+     <img width="386" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokyyyi&layout=compact&show_icons=ture&show_owner=ture&hide_title=false&theme=omni&hide=none" />
+    </a>
+</p>
 
-<h2 align="center"> 🧤 About 🧤 </h2>
+
+<h2 align="center"> 🧤 Contact ME 🧤 </h2>
 <br>
 
-<div align="center">
-  <a href="https://lokyyyi-tech.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="GitHub"></a>
+>Email : <lokyyyi96@gamil.com>
+>
+>Blog : [기술 블로그](lokyyyi96@gamil.com)
+>
+>Portfolio : [주현록의 포트폴리오]()
+>
+
+
+
 </div>
 
