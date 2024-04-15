@@ -43,7 +43,7 @@
 >
 >Blog : [기술 블로그](https://lokyyyi-tech.tistory.com/)
 >
->Portfolio : [주현록의 포트폴리오]()
+>Portfolio : [주현록의 포트폴리오](https://github.com/lokyyyi/portfolio/tree/main)
 >
 
 
